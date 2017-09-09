@@ -1,4 +1,4 @@
-name: gifcurry # you probably want to 'snapcraft register <name>'
+name: gifcurry-ads20000 # you probably want to 'snapcraft register <name>'
 version: '2.1.1.0'
 summary: Create animated GIFs, optionally overlaid with text, from video files.
 description: |
