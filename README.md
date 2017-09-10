@@ -4,7 +4,7 @@
   Gifcurry
 </h1>
 
-<p align="center"><b>This is the snap for Gifcurry</b>, <i>"create animated GIFs, optionally overlaid with text, from video files."</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for Gifcurry</b>, <i>"create animated GIFs, optionally overlaid with text, from video files"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -69,7 +69,7 @@ If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft
 
 | [![Ads20000](https://en.gravatar.com/userimage/37973820/1c244befd287ccdccaa02c803a7e40a9.jpg?s=128)](https://github.com/ads20000/) |
 | :---: |
-| [Your Name](https://github.com/ads20000/) |
+| [Ads20000](https://github.com/ads20000/) |
 
 <!-- Uncomment and modify this when you have upstream contacts
 ## Upstream
