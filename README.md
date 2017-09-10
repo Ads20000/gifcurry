@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://camo.githubusercontent.com/163ad22eb83d2d9d817f6f4f8789a99663c6cb36/687474703a2f2f692e696d6775722e636f6d2f6a68553770754e2e706e67" alt="Gifcurry">
   <br />
-  [Gifcurry]
+  Gifcurry
 </h1>
 
-<p align="center"><b>This is the snap for [Gifcurry]</b>, <i>"create animated GIFs, optionally overlaid with text, from video files."</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for Gifcurry</b>, <i>"create animated GIFs, optionally overlaid with text, from video files."</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
